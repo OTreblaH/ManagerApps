@@ -1,6 +1,6 @@
 from ManagerApp.app import app
 
-import ManagerApp.views
+import ManagerApp.routers
 
 
 if __name__ == '__main__':
