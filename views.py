@@ -18,3 +18,7 @@ def login():
     else:
         pass
 
+@app.route('/categorias', methods=['POST'])
+def categorias():
+    pass
+
